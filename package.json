@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/vsshealy/xllant/issues"
   },
-  "homepage": "https://github.com/vsshealy/xllant#readme"
+  "homepage": "https://github.com/vsshealy/xllant#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0"
+  }
 }
